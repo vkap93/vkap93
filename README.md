@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vkap93
-- 👀 I’m interested in web3/Blockchain development with focus on Supply Chain/Social impact/Sustainability applications.
+- 👀 I’m interested in web3/Blockchain development with focus on Supply Chain/Social impact/Sustainability applications
 - 🌱 I’m currently learning Javascript & Solidity
-- 💞️ I’m looking to collaborate on DAOs/NFT projects for social impact.
+- 💞️ I’m looking to collaborate on DAOs/NFT projects for social impact
 - 📫 How to reach me: victorkap@hotmail.com
 
 <!---
